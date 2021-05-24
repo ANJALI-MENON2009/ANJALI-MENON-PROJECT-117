@@ -1,0 +1,22 @@
+.heading {
+    font-size: 21px;
+    width:100% ;
+    padding-bottom:20px;
+    color:black;
+    margin: 0px;
+    box-shadow: 10px 5px 5px rgb(119, 109, 109);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    
+}
+.members {
+    font-size:18px;
+    color: black;
+    font-family: 'Architects Daughter', cursive;
+}
+.heading_div {
+    border-radius: 20px;
+    background-color:lightgrey ;
+    padding: 40px 0px;
+    display:flex;
+    flex-flow: column;
+    align-items: center;
+}
